@@ -9,8 +9,8 @@
     body {
       margin: 0;
       padding: 2rem;
-      background-color: #000;
-      color: #00ff00;
+      background-color: #2c003e; /* Lavender-dark terminal */
+      color: #ccffcc; /* Soft green text */
       font-family: 'Fira Code', monospace;
       font-size: 1rem;
     }
@@ -22,7 +22,7 @@
     }
 
     a {
-      color: #00ffff;
+      color: #66ffff; /* Cyan link */
       text-decoration: none;
     }
 
@@ -33,7 +33,7 @@
     .cursor {
       display: inline-block;
       width: 10px;
-      background-color: #00ff00;
+      background-color: #dda0dd; /* Lavender blinking cursor */
       animation: blink 1s infinite;
       vertical-align: bottom;
     }
