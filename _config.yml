@@ -1,5 +1,20 @@
-title: Faith Olajide | Cybersecurity Portfolio
-description: Terminal-style portfolio using Jekflix theme
-remote_theme: thiagorossener/jekflix-theme
+title: JustFaith98 | Cybersecurity Portfolio
+description: A Cybersecurity-themed personal site
+remote_theme: thiagorossener/jekflix-template
 plugins:
   - jekyll-remote-theme
+
+# Customize appearance
+show_hero: true
+two_columns_layout: true
+show_time_bar: true
+show_modal_on_finish_post: true
+
+# Social
+github_username: justfaith98
+linkedin_username: your-linkedin-username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
