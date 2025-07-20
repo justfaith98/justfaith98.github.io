@@ -2,29 +2,25 @@
 layout: home
 title: Faith Olajide
 subtitle: Cybersecurity & IT Support Specialist
-cover: assets/img/terminal-bg.png
 ---
 
-```terminal
-faith@portfolio:~$ whoami
-Faith Olajide — Cybersecurity & IT Support Specialist
+> B.S. Cybersecurity graduate with 7+ years of IT and security experience.  
+> Specializing in threat detection, phishing simulations, and user education.
 
-faith@portfolio:~$ cat about.txt
-B.S. in Cybersecurity with 7+ years of hands-on experience in IT, phishing simulations, and incident response.
+### Featured Projects
 
-faith@portfolio:~$ ls projects/
-📁 phishing-simulation-vm
-📁 threat-intel-automation
-📁 incident-response-sops
+- **Phishing Simulation VM**  
+  Created VM-based phishing simulations to train employees on threat recognition.
 
-faith@portfolio:~$ open resume.pdf
-[Download My Resume](assets/files/resume.pdf)
+- **Threat Intel Automation**  
+  Used Python to automate daily threat feed parsing and anomaly reporting.
 
-faith@portfolio:~$ open presentation.pptx
-[Download My Presentation](assets/files/cybersecurity-project.pptx)
+- **Incident Response SOPs**  
+  Authored 10+ playbooks to standardize response and reduce incident resolution time.
 
-faith@portfolio:~$ contact
-📧 faitholajide1@gmail.com  
-📞 (240) 469-0970  
-🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/)
-```
+---
+
+📄 [Download Resume](assets/files/resume.pdf)  
+📊 [Download Presentation](assets/files/cybersecurity-project.pptx)  
+📧 faitholajide1@gmail.com | 📞 (240)-469-0970  
+[LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/)
