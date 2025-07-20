@@ -3,26 +3,61 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>faith@terminal:~$</title>
+  <title>Faith Olajide | Cybersecurity Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
   <style>
-    body {
+    html, body {
       margin: 0;
-      padding: 2rem;
-      background-color: #2c003e; /* Lavender-dark terminal */
-      color: #ccffcc; /* Soft green text */
+      padding: 0;
+      height: 100%;
+      background-color: #2c003e; /* Deep lavender */
       font-family: 'Fira Code', monospace;
-      font-size: 1rem;
+      color: #ccffcc;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 2rem;
     }
 
     .terminal {
+      width: 100%;
       max-width: 800px;
-      margin: auto;
+      background-color: #2c003e;
+      border-radius: 8px;
+      padding: 1.5rem;
+      border: 1px solid #774c9e;
+      box-shadow: 0 0 20px #a271b8;
       white-space: pre-wrap;
+      position: relative;
+    }
+
+    .top-bar {
+      display: flex;
+      gap: 8px;
+      position: absolute;
+      top: 0.75rem;
+      left: 1rem;
+    }
+
+    .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .red { background-color: #ff5f56; }
+    .yellow { background-color: #ffbd2e; }
+    .green { background-color: #27c93f; }
+
+    h1, h2 {
+      color: #f0caff;
+      border-bottom: 1px solid #774c9e;
+      padding-bottom: 0.3rem;
     }
 
     a {
-      color: #66ffff; /* Cyan link */
+      color: #aaffee;
       text-decoration: none;
     }
 
@@ -30,50 +65,69 @@
       text-decoration: underline;
     }
 
-    .cursor {
-      display: inline-block;
-      width: 10px;
-      background-color: #dda0dd; /* Lavender blinking cursor */
-      animation: blink 1s infinite;
-      vertical-align: bottom;
+    nav {
+      margin-top: 1rem;
+      margin-bottom: 2rem;
     }
 
-    @keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 1; }
+    nav a {
+      margin-right: 15px;
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      color: #aa99ff;
     }
   </style>
 </head>
 <body>
   <div class="terminal">
-<pre>
-faith@portfolio:~$ whoami
-Faith Olajide — Cybersecurity & IT Support Specialist
+    <div class="top-bar">
+      <span class="dot red"></span>
+      <span class="dot yellow"></span>
+      <span class="dot green"></span>
+    </div>
 
-faith@portfolio:~$ cat about_me.txt
-B.S. Cybersecurity graduate with 7+ years of IT and security experience.
-Specialized in phishing simulations, user education, and threat detection.
-Driven by automation, precision, and user-centered security practices.
+    <h1>Faith Olajide</h1>
+    <p>Cybersecurity & IT Support Specialist</p>
+    <nav>
+      <a href="#about">About Me</a>
+      <a href="#projects">Projects</a>
+      <a href="#resume">Resume</a>
+      <a href="#contact">Contact</a>
+    </nav>
 
-faith@portfolio:~$ ls projects
-🔹 <a href="https://github.com/justfaith98/SDE-1" target="_blank">Phishing Simulation VM</a>
-🔹 <a href="https://github.com/justfaith98/SDE-2" target="_blank">Threat Intel Automation</a>
-🔹 Incident Response SOPs (Offline)
+    <section id="about">
+      <h2>About Me</h2>
+      <p>B.S. Cybersecurity graduate with 7+ years of IT and security experience. I specialize in threat detection, phishing simulations, and technical support. I’m passionate about user education and emerging cybersecurity tools.</p>
+    </section>
 
-faith@portfolio:~$ cat resume_and_pptx.txt
-📄 <a href="Faith-Olajide-Resume.pdf" target="_blank">Download Resume (PDF)</a>
-📊 <a href="cybersecurity-project.pptx" target="_blank">Download Cybersecurity Presentation (PPTX)</a>
+    <section id="projects">
+      <h2>Featured Projects</h2>
+      <ul>
+        <li><strong>Phishing Simulation VM</strong> — Created VM-based phishing simulations to train employees on threat recognition.</li>
+        <li><strong>Threat Intel Automation</strong> — Used Python to automate daily threat feed parsing and anomaly reporting.</li>
+        <li><strong>Incident Response SOPs</strong> — Authored 10+ playbooks to standardize response and reduce incident resolution time.</li>
+      </ul>
+    </section>
 
-faith@portfolio:~$ cat contact_info.txt
-📧 Email: <a href="mailto:faitholajide1@gmail.com">faitholajide1@gmail.com</a>
-📞 Phone: (240)-469-0970
-🔗 <a href="https://www.linkedin.com/in/faith-olajide-58075514b/" target="_blank">LinkedIn</a>
-🔗 <a href="https://github.com/justfaith98" target="_blank">GitHub</a>
+    <section id="resume">
+      <h2>Resume</h2>
+      <p><a href="your-resume.pdf" target="_blank">Download PDF Resume</a></p>
+    </section>
 
-faith@portfolio:~$ _
-<span class="cursor"></span>
-</pre>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: faitholajide1@gmail.com</p>
+      <p>Phone: (240)-469-0970</p>
+      <p><a href="https://www.linkedin.com/in/faith-olajide-58075514b/" target="_blank">LinkedIn</a></p>
+    </section>
+
+    <footer>
+      <p>© 2025 Faith Olajide</p>
+    </footer>
   </div>
 </body>
 </html>
