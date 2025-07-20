@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       height: 100%;
-      background-color: #2c003e; /* Deep lavender */
+      background-color: #2c003e;
       font-family: 'Fira Code', monospace;
       color: #ccffcc;
       display: flex;
@@ -21,13 +21,11 @@
 
     .terminal {
       width: 100%;
-      max-width: 800px;
+      max-width: 850px;
       background-color: #2c003e;
       border-radius: 8px;
-      padding: 1.5rem;
-      border: 1px solid #774c9e;
-      box-shadow: 0 0 20px #a271b8;
-      white-space: pre-wrap;
+      padding: 2rem;
+      box-shadow: 0 0 20px #aa88cc;
       position: relative;
     }
 
@@ -35,8 +33,8 @@
       display: flex;
       gap: 8px;
       position: absolute;
-      top: 0.75rem;
-      left: 1rem;
+      top: 1rem;
+      left: 1.5rem;
     }
 
     .dot {
@@ -50,35 +48,44 @@
     .yellow { background-color: #ffbd2e; }
     .green { background-color: #27c93f; }
 
-    h1, h2 {
+    .content {
+      margin-top: 2.5rem;
+      white-space: pre-wrap;
+      line-height: 1.6;
+    }
+
+    .prompt {
+      color: #ccffcc;
+    }
+
+    .command {
+      color: #aaffee;
+    }
+
+    .output {
       color: #f0caff;
-      border-bottom: 1px solid #774c9e;
-      padding-bottom: 0.3rem;
+    }
+
+    .cursor {
+      display: inline-block;
+      width: 10px;
+      height: 20px;
+      background-color: #ccffcc;
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      from, to { background: transparent; }
+      50% { background: #ccffcc; }
     }
 
     a {
-      color: #aaffee;
+      color: #99e6ff;
       text-decoration: none;
     }
 
     a:hover {
       text-decoration: underline;
-    }
-
-    nav {
-      margin-top: 1rem;
-      margin-bottom: 2rem;
-    }
-
-    nav a {
-      margin-right: 15px;
-      font-weight: bold;
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 2rem;
-      color: #aa99ff;
     }
   </style>
 </head>
@@ -90,44 +97,34 @@
       <span class="dot green"></span>
     </div>
 
-    <h1>Faith Olajide</h1>
-    <p>Cybersecurity & IT Support Specialist</p>
-    <nav>
-      <a href="#about">About Me</a>
-      <a href="#projects">Projects</a>
-      <a href="#resume">Resume</a>
-      <a href="#contact">Contact</a>
-    </nav>
+    <div class="content" id="terminal-content">
+      <div class="prompt">faith@cyber:~$ <span class="command">whoami</span></div>
+      <div class="output">Faith Olajide - Cybersecurity Specialist</div>
 
-    <section id="about">
-      <h2>About Me</h2>
-      <p>B.S. Cybersecurity graduate with 7+ years of IT and security experience. I specialize in threat detection, phishing simulations, and technical support. I’m passionate about user education and emerging cybersecurity tools.</p>
-    </section>
+      <div class="prompt">faith@cyber:~$ <span class="command">cat about_me.txt</span></div>
+      <div class="output">
+        BS in Cybersecurity | IT Support Specialist | Security Awareness Advocate
+        Skilled in phishing simulation, threat detection, and incident response.
+      </div>
 
-    <section id="projects">
-      <h2>Featured Projects</h2>
-      <ul>
-        <li><strong>Phishing Simulation VM</strong> — Created VM-based phishing simulations to train employees on threat recognition.</li>
-        <li><strong>Threat Intel Automation</strong> — Used Python to automate daily threat feed parsing and anomaly reporting.</li>
-        <li><strong>Incident Response SOPs</strong> — Authored 10+ playbooks to standardize response and reduce incident resolution time.</li>
-      </ul>
-    </section>
+      <div class="prompt">faith@cyber:~$ <span class="command">ls projects/</span></div>
+      <div class="output">
+        phishing-vm-employee-training/  
+        automated-threat-intel/  
+        incident-response-playbooks/
+      </div>
 
-    <section id="resume">
-      <h2>Resume</h2>
-      <p><a href="your-resume.pdf" target="_blank">Download PDF Resume</a></p>
-    </section>
+      <div class="prompt">faith@cyber:~$ <span class="command">open resume.pdf</span></div>
+      <div class="output"><a href="your-resume.pdf" target="_blank">📄 View My Resume</a></div>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email: faitholajide1@gmail.com</p>
-      <p>Phone: (240)-469-0970</p>
-      <p><a href="https://www.linkedin.com/in/faith-olajide-58075514b/" target="_blank">LinkedIn</a></p>
-    </section>
+      <div class="prompt">faith@cyber:~$ <span class="command">contact --me</span></div>
+      <div class="output">
+        Email: faitholajide1@gmail.com  
+        LinkedIn: <a href="https://linkedin.com/in/faith-olajide-58075514b" target="_blank">linkedin.com/in/faith-olajide</a>
+      </div>
 
-    <footer>
-      <p>© 2025 Faith Olajide</p>
-    </footer>
+      <div class="prompt">faith@cyber:~$ <span class="cursor"></span></div>
+    </div>
   </div>
 </body>
 </html>
