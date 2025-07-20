@@ -3,52 +3,67 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Faith Olajide | Cybersecurity Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
   <style>
     body {
-      font-family: 'Inter', sans-serif;
+      font-family: 'Fira Code', monospace;
       margin: 0;
       padding: 0;
+      background-color: #111;
+      color: #d1d5db;
       line-height: 1.6;
-      background-color: #f8f9fa;
-      color: #333;
     }
+
     header {
-      background-color: #5f4b8b;
-      color: #fff;
-      padding: 2rem;
+      background-color: #0d0d0d;
+      color: #00ffc3;
       text-align: center;
+      padding: 2rem 1rem;
+      border-bottom: 2px solid #00ffc3;
     }
+
+    nav {
+      margin-top: 1rem;
+    }
+
     nav a {
-      color: #fff;
+      color: #00ffc3;
       margin: 0 1rem;
       text-decoration: none;
-      font-weight: 600;
+      font-weight: bold;
     }
+
     section {
       padding: 2rem 1rem;
       max-width: 800px;
       margin: auto;
     }
+
     h2 {
-      border-bottom: 2px solid #5f4b8b;
+      color: #00ffc3;
+      border-bottom: 2px solid #00ffc3;
       padding-bottom: 0.5rem;
     }
+
     ul {
-      list-style: none;
-      padding-left: 0;
+      list-style-type: square;
+      padding-left: 1.5rem;
     }
+
     li {
       margin-bottom: 1rem;
     }
+
     a {
-      color: #5f4b8b;
+      color: #00ffc3;
     }
+
     footer {
+      background-color: #0d0d0d;
+      color: #888;
       text-align: center;
       padding: 1rem;
-      background-color: #eee;
+      margin-top: 2rem;
     }
   </style>
 </head>
