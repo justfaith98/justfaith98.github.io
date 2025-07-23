@@ -1,9 +1,238 @@
-title: Faith Olajide | Cybersecurity Portfolio
-description: Cybersecurity projects, final papers, and technical work.
-remote_theme: pages-themes/hacker@v0.2.0
+_config.yml
+title: Faith Olajide's Portfolio # Replace with your name
+description: Cybersecurity Professional | Social Engineering and SOC Enthusiast # Replace with your professional title/description
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+# Navigation links (optional)
+nav_links:
+  - name: Home
+    url: /
+  - name: Resume
+    url: /resume.html
+  - name: Labs
+    url: /labs.html
+  - name: Senior Design Project
+    url: /senior-design.html
 
-show_downloads: true
+# Social links (optional)
+github_username: justfaith98 # Replace with your GitHub username
+linkedin_username: faith-olajide-58075514b # Replace with your LinkedIn username
+email: your-email@example.com # Replace with your email
+
+index.md
+---
+layout: default
+title: Home
+---
+
+# Welcome to My Portfolio!
+
+Hello! I'm excited to showcase my work and experiences in cybersecurity and IT. This page serves as a central hub for my resume, academic labs, and my senior design project.
+
+Feel free to explore the different sections to learn more about my skills, projects, and what I've been working on.
+
+* [**My Resume**](/resume.html): A detailed overview of my education, experience, and skills.
+* [**Completed Labs**](/labs.html): Highlights from my hands-on lab assignments in scripting, UNIX/Linux, and networking.
+* [**Senior Design Project**](/senior-design.html): An in-depth look at my project on using Virtual Machines for workplace phishing attack mitigation.
+
+Thanks for visiting!
+
+resume.md
+---
+layout: default
+title: Resume
+---
+
+# My Resume
+
+**(Please replace this content with your actual resume details.)**
+
+## Faith Olajide
+
+**Email:** your-email@example.com | **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username) | **GitHub:** [your-github-profile](https://github.com/your-github-username)
+
+---
+
+### Education
+
+**Capitol Technology University** | Laurel, MD
+*Bachelor of Science in Cybersecurity*, Expected Graduation: [Month, Year]
+
+---
+
+### Skills
+
+* **Programming Languages:** Python, Perl, Bash Scripting
+* **Operating Systems:** Linux (Ubuntu, Kali Linux), Windows, macOS
+* **Networking:** Packet Tracer, LAN/WAN concepts, SSH, FTP
+* **Virtualization:** VMware, Parallels, VirtualBox
+* **Cybersecurity Tools:** SEToolkit, Wireshark, Digital Forensics Software
+* **Concepts:** Phishing Simulation, Social Engineering, Network Security, System Administration, Data Analysis
+
+---
+
+### Experience
+
+**[Your Job Title/Internship]** | [Company Name], [City, State]
+[Month, Year] – [Month, Year]
+* [Description of your responsibilities and achievements]
+* [Quantifiable achievements preferred, e.g., "Reduced X by Y%"]
+
+---
+
+### Projects
+
+#### Senior Design Project: Using Virtual Machines for Workplace Phishing Attack Mitigation
+* Developed and implemented a hands-on training module simulating real-world phishing scenarios using Kali Linux and virtual machines.
+* Designed educational content to help employees identify, prevent, and mitigate phishing attacks.
+* Researched and integrated various tools and techniques for effective phishing simulation and training.
+
+---
+
+### Coursework Highlights
+
+* Scripting Languages (CT-206)
+* UNIX/Linux Crash Course (CT-152)
+* Senior Design Project I & II (SDE 1 & SDE 2)
+* Network Representation (Packet Tracer)
+
+---
+
+### Awards & Certifications
+
+* [List any relevant awards or certifications here]
+
+---
+
+### Professional Affiliations
+
+* [List any professional organizations or affiliations here]
+
+---
+
+**(Remember to update all placeholder information with your actual details.)**
+
+labs.md
+---
+layout: default
+title: Labs
+---
+
+# Completed Labs
+
+Here are some of the key lab assignments I have completed, demonstrating my practical skills in various areas of IT and cybersecurity.
+
+---
+
+## CT-206 Scripting Languages: Project 1 - Flux Capacitor Temperature Monitor
+
+This project involved developing a Python script to monitor the fictional "Flux Capacitor's" temperature and provide operational status notifications.
+
+**Key Learnings:**
+* **Python Fundamentals:** Input/output operations, conditional statements (`if-elif-else`), data type conversion (string to float).
+* **Scripting Logic:** Implementing decision-making based on temperature ranges to determine operational status (too hot, normal, too cold).
+* **Problem Solving:** Translating real-world (albeit fictional) requirements into executable code.
+
+**Script Requirements:**
+* Take temperature input from the keyboard.
+* Display the entered temperature and a corresponding message:
+    * Above 88.9 degrees: "too hot and needs to be shutoff"
+    * Between 88.8 and 60.2 degrees: "running in normal status"
+    * Anything else: "running too cold and the system maybe off, please check to make sure it is on"
+
+---
+
+## CT-152 UNIX/Linux Crash Course
+
+This lab provided hands-on experience with fundamental UNIX/Linux commands and concepts, crucial for system administration and cybersecurity.
+
+**Key Learnings:**
+* **Basic Navigation:** `cd`, `ls`, `pwd` for moving around the file system and listing directory contents.
+* **File Operations:** Creating and editing files with `nano`.
+* **Help and Manuals:** Using the `man` command to understand command-line utilities.
+* **System Information:** Checking date/time (`date`, `cal`), identifying the current shell (`echo $SHELL`), and listing running processes (`ps x`).
+* **Command Piping:** Chaining commands together using `|` (e.g., `cat | less`).
+* **User Management:** Identifying other users on the system (`who`).
+* **History Management:** Saving command history to a file (`history > fileForHistory.txt`).
+* **Archiving:** Creating tar archives (`tar -zcvf`).
+* **File Transfer:** Downloading files using FTP/SFTP.
+* **Scripting Execution:** Invoking Perl and Python scripts from the shell.
+* **Text Processing:** Demonstrations of `grep`, `sed`, and `awk` for searching, substituting, and processing text.
+* **Package Management:** Basic understanding of `apt` for installing software packages.
+
+---
+
+## Packet Tracer - Network Representation
+
+This assignment focused on identifying and understanding common network components and topologies using Cisco Packet Tracer.
+
+**Key Learnings:**
+* **Network Device Identification:** Differentiating between end devices (e.g., PCs, laptops), intermediary devices (e.g., routers, switches), and media connections.
+* **Network Topologies:** Understanding the representation of LANs (Local Area Networks) and WANs (Wide Area Networks).
+* **Client-Server Model:** Basic explanation of how clients and servers interact in a network.
+* **Intermediary Device Functions:** Understanding their role in interconnecting devices and connecting hosts to networks.
+* **Network Media Criteria:** Factors influencing the choice of network media (e.g., distance, speed).
+* **Internet Concepts:** A simplified view of the internet's structure and common connection methods for home users and businesses.
+
+senior-design.md
+---
+layout: default
+title: Senior Design Project
+---
+
+# Senior Design Project: Using Virtual Machines for Workplace Phishing Attack Mitigation
+
+My senior design project focused on developing a comprehensive, hands-on training module to combat the rising threat of phishing attacks in the workplace. The core of this project involved leveraging virtual machines (VMs) to simulate realistic phishing scenarios, providing employees with a safe and controlled environment to learn how to identify, prevent, and mitigate these cyber threats.
+
+---
+
+## Project Background and Problem Statement
+
+Phishing attacks continue to be a primary source of monetary loss and data breaches for companies, despite advancements in cybersecurity awareness. Traditional training methods often fall short in adequately preparing employees. My project aimed to address this gap by creating an accurate and thorough training program that uses VM software to simulate real-world phishing scenarios, offering hands-on training in a secure setting.
+
+---
+
+## Key Objectives
+
+* **Simulate Phishing Attacks:** Create realistic phishing scenarios within a virtualized environment (e.g., Kali Linux with SEToolkit).
+* **Educate Employees:** Develop training materials to teach employees how to differentiate between legitimate and malicious emails, and how to respond to phishing attempts.
+* **Hands-on Training:** Provide a practical, interactive experience for users to apply their knowledge in a controlled simulation.
+* **Mitigation Strategies:** Equip employees with the skills to mitigate a phishing attack if they accidentally interact with a malicious email.
+
+---
+
+## Technologies and Tools Used
+
+* **Virtualization Software:** Parallels (also considered VMware, VirtualBox)
+* **Virtual Machines:** Kali Linux (for attack simulation), Email server
+* **Phishing Simulation Software:** SEToolkit in Kali Linux
+* **Phishing Templates:** Custom-created templates and those available in SEToolkit.
+* **Training Materials:** Educational modules, user guides, policies, and procedures.
+
+---
+
+## Project Implementation and Challenges
+
+The project involved a structured approach from research and scenario development to implementation and testing. A significant challenge encountered was related to email security systems (e.g., Gmail) blocking third-party accounts, which was resolved through thorough research and using alternative SMTP servers.
+
+The project culminated in a hands-on training module that demonstrated the simulation on a virtual machine and a complementary training module on a website.
+
+---
+
+## Outcomes and Applicability
+
+This project resulted in a practical training solution that enhances cybersecurity preparedness. Its applicability extends to:
+* **Employee Training:** Providing effective, experiential learning for employees.
+* **Compliance:** Helping organizations meet cybersecurity training compliance requirements.
+* **Scalability:** The VM-based approach can be scaled to train various departments or larger workforces.
+* **Cost-Effectiveness:** Offering a more engaging and potentially more effective training method compared to some traditional solutions.
+* **Industry Relevance:** Directly addressing a critical and evolving threat in the cybersecurity landscape.
+
+---
+
+## Lessons Learned
+
+Through this project, I gained a deeper appreciation for the complexities of cybersecurity training and the role of VMs in creating realistic simulation environments. I also learned the importance of thorough planning, continuous monitoring, and effective communication with stakeholders. The experience highlighted the need to anticipate technical intricacies and address potential user skepticism early in the training process.
+
