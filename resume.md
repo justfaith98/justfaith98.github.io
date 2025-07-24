@@ -1,5 +1,5 @@
 _config.yml
-title: Your Name's Portfolio # Replace with your name
+title: Faith Olajide's Resume
 description: Cybersecurity Student | Aspiring Security Engineer # Replace with your professional title/description
 show_downloads: false
 google_analytics:
