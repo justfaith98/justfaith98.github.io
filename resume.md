@@ -5,69 +5,88 @@ title: Resume
 
 # My Resume
 
-**(Please replace this content with your actual resume details.)**
-
 ## Faith Olajide
+**Email:** faitholajide1@gmail.com | **Phone:** (240)-469-0970 | **LinkedIn:** [linkedin.com/in/faith-olajide-58075514b](https://linkedin.com/in/faith-olajide-58075514b) | **GitHub Page:** [https://justfaith98.github.io](https://justfaith98.github.io)
 
-**Email:** your-email@example.com | **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username) | **GitHub:** [your-github-profile](https://github.com/your-github-username)
+---
+
+### Summary
+
+Proficient cybersecurity and help desk technician with 7+ years of experience identifying and mitigating risks across enterprise networks, systems, and applications. Skilled in security policy implementation, threat detection, system hardening, and end-user support. Adept at resolving technical issues and aligning IT solutions with best security practices. Strong communicator and collaborative team player passionate about digital protection and user empowerment.
 
 ---
 
 ### Education
 
-**Capitol Technology University** | Laurel, MD
-*Bachelor of Science in Cybersecurity*, Expected Graduation: [Month, Year]
+**Capitol Technology University**, Laurel, MD
+*Bachelor of Applied Science in Cybersecurity* - Graduated 2024 (Jan 2020 – April 2024)
+*Google Cybersecurity Certification* - March 2025
+*Cybersecurity Asset Manager* - March 2025
 
 ---
 
-### Skills
+### Technical Skills
 
-* **Programming Languages:** Python, Perl, Bash Scripting
-* **Operating Systems:** Linux (Ubuntu, Kali Linux), Windows, macOS
-* **Networking:** Packet Tracer, LAN/WAN concepts, SSH, FTP
-* **Virtualization:** VMware, Parallels, VirtualBox
-* **Cybersecurity Tools:** SEToolkit, Wireshark, Digital Forensics Software
-* **Concepts:** Phishing Simulation, Social Engineering, Network Security, System Administration, Data Analysis
-
----
-
-### Experience
-
-**[Your Job Title/Internship]** | [Company Name], [City, State]
-[Month, Year] – [Month, Year]
-* [Description of your responsibilities and achievements]
-* [Quantifiable achievements preferred, e.g., "Reduced X by Y%"]
+* **Security Tools:** Splunk, CrowdStrike, Microsoft Defender, Mimecast, KnowBe4, Zscaler, Magnet AXIOM
+* **Incident Response & Threat Intelligence:** SIEM monitoring, IDS/IPS systems, MITRE ATT&CK
+* **Network & System Administration:** Active Directory, Exchange, Multi-Factor Authentication, TCP/IP
+* **Languages & Platforms:** Python, C, C++, SQL, Azure, AWS, Google Cloud, HTML/CSS
+* **Tools:** Kali Linux, Metasploit, BurpSuite, Wireshark, Nmap, FTK, EnCase
 
 ---
 
-### Projects
+### Cybersecurity Projects & Achievements
 
-#### Senior Design Project: Using Virtual Machines for Workplace Phishing Attack Mitigation
-* Developed and implemented a hands-on training module simulating real-world phishing scenarios using Kali Linux and virtual machines.
-* Designed educational content to help employees identify, prevent, and mitigate phishing attacks.
-* Researched and integrated various tools and techniques for effective phishing simulation and training.
-
----
-
-### Coursework Highlights
-
-* Scripting Languages (CT-206)
-* UNIX/Linux Crash Course (CT-152)
-* Senior Design Project I & II (SDE 1 & SDE 2)
-* Network Representation (Packet Tracer)
+**Incident Response Process Development**
+* Investigated and escalated 25+ anomalies weekly using firewall and system logs; automated triage processes using Python, improving response time by 35%.
+**Operations Documentation**
+* Developed 10+ standardized playbooks and SOPs for incident handling and system configuration, improving team onboarding speed by 50%.
+**Threat Intelligence & Risk Mitigation**
+* Analyzed threat feeds daily and coordinated patching efforts with a 100% closure rate on critical vulnerabilities within 72 hours.
 
 ---
 
-### Awards & Certifications
+### Technical Experience
 
-* [List any relevant awards or certifications here]
+**Capitol Technology University** | May 2022 – Aug 2024
+*IT Help Desk Technician*
+* Resolved 100+ monthly tickets in ConnectWise with 98% SLA.
+* Managed 200+ AD accounts, MFA setups, and workstation upgrades.
+* Led campus-wide upgrade of 150+ workstations with full device encryption and AV compliance.
+* Wrote SOPs used by interns and staff for secure device configuration.
+
+**Capitol Technology University** | April 2020 – May 2022
+*Cybersecurity Technician*
+* Monitored firewall logs for 500+ endpoints, escalating 20+ verified threats monthly to the SOC team.
+* Used Python to automate daily report generation, reducing manual workload by 40%.
+* Coordinated vulnerability patch cycles, increasing monthly compliance from 65% to 90%.
+* Maintained 30+ documented SOPs covering incident response and device hardening.
+
+**Staples** | Mar 2018 – Apr 2020
+*Service Desk Tier 1*
+* Resolved 75+ weekly support issues across 14 client networks, including POS, desktops, and VPN.
+* Diagnosed and fixed endpoint issues remotely, reducing escalation tickets by 20%.
+* Supported AD user provisioning and laptop configuration aligned with secure access policies.
+* Assisted in POS upgrades and Wi-Fi deployments aboard 3 enterprise cruise clients.
+
+**University Program** | Aug 2023 – Dec 2023
+*Cybersecurity Lab Mentor (TA)*
+* Led hands-on lab sessions for 40+ students across courses in digital forensics, secure coding, and intrusion detection.
+* Guided students through tools such as Kali Linux, Wireshark, and FTK for simulated threat scenarios.
+* Collaborated with faculty to refine and update 5+ lab manuals and SOPs to align with NIST/NICE standards.
+* Mentored 10+ undergraduates through secure coding practices using C++ and object-oriented programming.
 
 ---
 
-### Professional Affiliations
+### Volunteer & Activities
 
-* [List any professional organizations or affiliations here]
+* **Volunteer:** GenCyber Assistant, Cybersecurity Peer Mentor, Creative Juices (Art Club) President (2023-2024)
+* **Conferences:** Capitol Technology HammerCon
+* **Hackathons:** Capitol Tech CTF (2023)
 
 ---
 
-**(Remember to update all placeholder information with your actual details.)**
+### Work Authorization
+
+* U.S. Citizen
+* Open to Relocation
