@@ -1,4 +1,6 @@
 source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-developr"
 
 gem 'jekyll', '~> 4.3.3'
 gem 'bundler', '~> 2.5.15'
