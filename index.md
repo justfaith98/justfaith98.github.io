@@ -1,7 +1,10 @@
-# Faith Olajide
+---
+layout: default
+title: Home
+---
 
-**Cybersecurity Specialist | Social Engineering Enthusiast** | Aspiring SOC Analyst
+# 👩🏾‍💻 Faith Olajide | Cybersecurity Portfolio
 
-Welcome to my portfolio. I’m passionate about understanding the *human* side of cybersecurity—  
-studying how attackers exploit psychology, and building awareness through phishing simulations,  
-training, and hands-on social engineering labs.
+Welcome to my cybersecurity portfolio! View my recent work:
+
+[📂 View My Senior Design Project](./senior-design.md)
