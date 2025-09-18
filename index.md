@@ -1,123 +1,35 @@
 ---
 layout: default
+title: Welcome
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👋 Hi, I'm Faith Olajide
 
-[Link to another page](./another-page.html).
+Welcome to my cybersecurity portfolio!  
+Here you'll find a showcase of my work, certifications, and professional experience.
 
-There should be whitespace between paragraphs.
+## 🔒 Featured Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 🛡️ [SDE 1: VM-Based Cybersecurity Training Tool](https://github.com/justfaith98/SDE-1)
+A virtual machine-based tool designed to simulate workplace cybersecurity threats. Helps educate employees on incident response using Kali Linux, Snort, and Wireshark.
 
-# Header 1
+### 🔍 [SDE 2: Student Progress Tracker](https://github.com/justfaith98/SDE-2)
+A database system that tracks student performance using data-driven strategies. Built with SQL, Python, and dashboards for reporting and analysis.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🎤 Presentation
 
-## Header 2
+[📂 Download My Cybersecurity Project Presentation (.pptx)](cybersecurity-project.pptx)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<!-- Optional: If GitHub Pages URL will host the file -->
+<!-- [🎓 View the Presentation](https://justfaith98.github.io/your-repo-name/cybersecurity-project.pptx) -->
 
-### Header 3
+## 🛠 Skills
+- Linux, SQL, Python, Wireshark, Splunk
+- Incident response, log analysis, vulnerability scanning
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 📜 Certifications
+- Tools of the Trade: Linux and SQL (2024)
+- Automate Cybersecurity Tasks with Python (in progress)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 📫 Contact Me
+[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/justfaith98) | Email: your.email@example.com
