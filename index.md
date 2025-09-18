@@ -2,7 +2,6 @@
 layout: home
 title: Faith Olajide
 subtitle: Cybersecurity & IT Support Specialist
-cover: assets/img/terminal-bg.png
 ---
 
 ```terminal
@@ -15,12 +14,10 @@ B.S. in Cybersecurity with 7+ years of hands-on experience in IT, phishing simul
 faith@portfolio:~$ ls projects/
 📁 labs
 📁 projects
+📄 resume.pdf
 
 faith@portfolio:~$ open resume.pdf
-[Download My Resume](assets/docs/Faith_Olajide_Resume.pdf)
-
-faith@portfolio:~$ open presentation.pptx
-[Download My Presentation](assets/docs/SDE2_Final_Presentation.pdf)
+[Download My Resume](assets/files/resume.pdf)
 
 faith@portfolio:~$ contact
 📧 faitholajide1@gmail.com  
