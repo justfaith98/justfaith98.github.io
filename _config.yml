@@ -1,12 +1,14 @@
-title: Faith Olajide | Cybersecurity Portfolio
-description: Cybersecurity projects, final papers, and technical work.
-baseurl: ""
-url: "[https://justfaith98.github.io](https://justfaith98.github.io)"
-
+title: "Faith Olajide"
+description: "Cybersecurity & IT Support Specialist"
 remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
-show_downloads: true
+# Social links
+github_username: justfaith98
+linkedin: "https://www.linkedin.com/in/faith-olajide-58075514b/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
