@@ -1,14 +1,8 @@
 title: "Faith Olajide"
 description: "Cybersecurity & IT Support Specialist"
+
+# Use the Hacker theme
 remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-remote-theme
-
-# Social links
-github_username: justfaith98
-linkedin: "https://www.linkedin.com/in/faith-olajide-58075514b/"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
