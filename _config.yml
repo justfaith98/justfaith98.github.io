@@ -2,6 +2,7 @@ title: "Faith Olajide"
 description: "Cybersecurity & IT Support Specialist"
 baseurl: ""
 url: "https://justfaith98.github.io"
+show_downloads: true
 
 theme: jekyll-theme-hacker
 
