@@ -24,7 +24,6 @@ faith@portfolio:~$ open presentation.pptx
 [Download My Presentation](assets/files/cybersecurity-project.pptx)
 
 faith@portfolio:~$ contact
-📧 faitholajide1@gmail.com  
-📞 (240) 469-0970  
+📧 faitholajide1@gmail.com
+📞 (240) 469-0970
 🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/)
-```
