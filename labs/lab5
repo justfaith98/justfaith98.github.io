@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Lab 5 - Two-Factor Authentication"
+permalink: /labs/lab5/
+---
+
+# Lab 5: Two-Factor Authentication (IAE 250)
+
+**Summary:**  
+Implemented and tested Google’s Two-Factor Authentication to strengthen account security.  
+Focus was on setup, recovery codes, and secure login workflow.
+
+📂 [Download Full Lab Report](../assets/labs/Lab5.pdf)
