@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Senior Design Project
 ---
 
 # 🚀 Senior Design Project: Leveraging Virtual Machines for Workplace Phishing Attack Mitigation
