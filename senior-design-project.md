@@ -29,8 +29,8 @@ The project followed a structured schedule, from initial project kickoff and res
 
 ## 📸 Screenshots
 The final presentation included several screenshots to illustrate the project's process and results, including:
-- [cite_start]A screenshot of the phishing email with a suspicious attachment and an incorrect email address.
-- [cite_start]A screenshot of the final training module that was designed.
+- A screenshot of the phishing email with a suspicious attachment and an incorrect email address.
+- A screenshot of the final training module that was designed.
 - A screenshot of the Kali Linux terminal used for the phishing simulation.
 
 ---
