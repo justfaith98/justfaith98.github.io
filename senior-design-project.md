@@ -36,5 +36,5 @@ The final presentation included several screenshots to illustrate the project's 
 ---
 
 ## 🔗 Project Links
-- **[Download Final Presentation (PDF)](SDE 2 Final Presentation.pdf)**
-- **[Download Final Paper (DOCX)](Final Paper SDE 2.docx)**
+- **[Download Final Presentation (PDF)](SDE2_Final_Presentation.pdf)**
+- **[Download Final Paper (DOCX)](Final_Report_SDE2.docx)**
