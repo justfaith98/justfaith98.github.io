@@ -5,10 +5,10 @@ title: "Faith Olajide"
 
 # Faith Olajide
 
-Welcome to my cybersecurity & IT support portfolio.  
+Welcome to my Cybersecurity & IT support portfolio.  
 
 - [Resume](resume.md)  
-- [Projects](projects.md)  
+- [Senior Design Project](senior-design-project.md)  
 - [Labs](labs.md)  
 
 📧 faitholajide1@gmail.com  
