@@ -1,7 +1,6 @@
 ---
 
 #### `labs/ct206-project1.md`
-```markdown
 ---
 layout: default
 title: "CT-206 Project 1 - Python Scripting"
