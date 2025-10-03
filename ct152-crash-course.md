@@ -18,13 +18,13 @@ The goal of this crash course was to gain hands-on experience with **Linux/Unix 
 ---
 
 ## Key Skills Learned
-- Navigating the Linux filesystem using commands like `cd`, `ls`, and `pwd`.  
-- Managing files and directories (`touch`, `mkdir`, `rm`, `cp`, `mv`).  
-- Understanding file permissions and using `chmod`, `chown`, and `umask`.  
-- User and group management (`useradd`, `groupadd`, `passwd`).  
-- Process monitoring and management with `ps`, `top`, and `kill`.  
+- Navigating the Linux filesystem using commands like cd, ls, and pwd.  
+- Managing files and directories (touch, mkdir, rm, cp, mv).  
+- Understanding file permissions and using chmod, chown, and umask.  
+- User and group management (useradd, groupadd, passwd).  
+- Process monitoring and management with ps, top, and kill.  
 - Basic shell scripting for automation.  
-- Using package managers (`apt-get`, `yum`) for software installation.  
+- Using package managers (apt-get, yum) for software installation.  
 
 ---
 
