@@ -101,4 +101,4 @@ Cybersecurity graduate with hands-on experience in IT support, security monitori
 ---
 
 ## 📄 Download Resume
-[Download PDF](assets/files/Faith_Olajide_Cybersecurity_Resume.pdf)
+[Download PDF](assets/files/Resume-2.pdf)
