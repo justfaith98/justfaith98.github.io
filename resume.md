@@ -4,87 +4,101 @@ title: "Resume"
 ---
 
 # Faith Olajide
-📧 faitholajide1@gmail.com | 📞 (240) 469-0970 | 🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/) | 🌐 [Portfolio](https://justfaith98.github.io)
+📧 faitholajide1@gmail.com | 📞 (240) 469-0970  
+🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/) | 🌐 [Portfolio](https://justfaith98.github.io)
 
 ---
 
 ## 🔹 Summary
-Proficient cybersecurity and help desk technician with 7+ years of experience identifying and mitigating risks across enterprise networks, systems, and applications. Skilled in security policy implementation, threat detection, system hardening, and end-user support. Adept at resolving technical issues and aligning IT solutions with best security practices. Strong communicator and collaborative team player passionate about digital protection and user empowerment.
+Cybersecurity graduate with hands-on experience in IT support, security monitoring, and incident response through academic, lab, and enterprise environments. Skilled in Windows and Linux systems, Active Directory, log analysis, vulnerability assessment, and secure system configuration. Strong communicator with a customer-focused mindset and a passion for protecting systems, users, and data.
 
 ---
 
 ## 🎓 Education
-**Capitol Technology University, Laurel, MD**
-*B.S. in Cybersecurity — Graduated April 2024*
-- Google Cybersecurity Certification — March 2025
-- Cybersecurity Asset Manager — March 2025
+**Capitol Technology University, Laurel, MD**  
+**Bachelor of Applied Science (B.A.S.) in Cybersecurity** — *April 2024*
+
+**Certifications**
+- Google Cybersecurity Certificate  
+- Google IT Support Certificate  
+- Qualys Cloud Agent (CA)  
+- Qualys Cybersecurity Asset Management (CSAM)  
+- SOCOA I (In Progress)
 
 ---
 
 ## 🛠 Technical Skills
-- **Security Tools:** Splunk, CrowdStrike, Microsoft Defender, Mimecast, KnowBe4, Zscaler, Magnet AXIOM
-- **Incident Response & Threat Intelligence:** SIEM monitoring, IDS/IPS, MITRE ATT&CK
-- **Network & System Administration:** Active Directory, Exchange, MFA, TCP/IP
-- **Languages & Platforms:** Python, C, C++, SQL, Azure, AWS, Google Cloud, HTML/CSS
-- **Tools:** Kali Linux, Metasploit, BurpSuite, Wireshark, Nmap, FTK, EnCase
-
----
-
-## 🧪 Cybersecurity Projects & Achievements
-**Incident Response Process Development**
-- Investigated and escalated over 25 anomalies weekly using firewall and system logs.
-- Automated triage processes with Python, which improved response time by 35%.
-
-**Operations Documentation**
-- Developed over 10 standardized playbooks and SOPs for incident handling and system configuration.
-- Improved team onboarding speed by 50%.
-
-**Threat Intelligence & Risk Mitigation**
-- Analyzed threat feeds daily and coordinated patching efforts with a 100% closure rate on critical vulnerabilities within 72 hours.
+- **Security & Analysis:** Log Analysis, Vulnerability Scanning, Incident Triage, Risk Identification  
+- **Tools & Labs:** Wireshark, Kali Linux, Nmap, Metasploit, Burp Suite, Virtual Machines  
+- **Systems & Networking:** Windows OS, Linux, Active Directory, MFA, TCP/IP, DNS  
+- **Programming & Databases:** Python (basic), SQL  
+- **Frameworks & Concepts:** NIST, CIA Triad, Security Awareness Fundamentals  
 
 ---
 
 ## 💼 Technical Experience
-**IT Help Desk Technician** — Capitol Technology University (May 2022 – Aug 2024)
-- Resolved 100+ monthly tickets in ConnectWise with a 98% SLA.
-- Managed 200+ Active Directory accounts, MFA setups, and workstation upgrades.
-- Led a campus-wide upgrade of 150+ workstations with full device encryption and AV compliance.
-- Wrote SOPs used by interns and staff for secure device configuration.
 
-**Cybersecurity Technician** — Capitol Technology University (Apr 2020 – May 2022)
-- Monitored firewall logs for 500+ endpoints, escalating over 20 verified threats monthly.
-- Automated daily reports with Python, reducing manual workload by 40%.
-- Coordinated patch cycles, increasing monthly compliance from 65% to 90%.
-- Maintained 30+ documented SOPs for incident response and hardening.
-
-**Service Desk Tier 1** — Staples (Mar 2018 – Apr 2020)
-- Resolved 75+ weekly support issues across 14 networks, including POS, desktops, and VPN.
-- Reduced escalation tickets by 20% via remote endpoint fixes.
-- Supported Active Directory user provisioning and laptop configuration aligned with secure access policies.
-- Assisted with POS upgrades and Wi-Fi deployments across enterprise clients.
-
-**Cybersecurity Lab Mentor (TA)** — University Program (Aug 2023 – Dec 2023)
-- Led labs for 40+ students in digital forensics, secure coding, and intrusion detection.
-- Guided students in using tools like Kali Linux, Wireshark, and FTK for simulated threat scenarios.
-- Collaborated with faculty to update 5+ lab manuals and SOPs to align with NIST/NICE standards.
-- Mentored over 10 undergraduates on secure coding practices using C++ and object-oriented programming.
+### **IT Help Desk Technician**  
+**Capitol Technology University — Laurel, MD**  
+*May 2022 – August 2024*
+- Provided Tier 1 technical support to students, faculty, and staff in a university environment  
+- Diagnosed and resolved Windows OS, application, and login-related issues  
+- Assisted with Active Directory account management, password resets, and access troubleshooting  
+- Documented incidents and resolutions to support efficient issue tracking and escalation  
+- Supported secure workstation configurations and basic endpoint security practices  
 
 ---
 
+### **Cybersecurity Technician**  
+**Capitol Technology University — Laurel, MD**  
+*April 2020 – May 2022*
+- Participated in hands-on cybersecurity labs focused on intrusion detection, log analysis, and threat identification  
+- Utilized Kali Linux, Wireshark, and virtualized environments to simulate real-world cyber threats  
+- Assisted with vulnerability assessment exercises and security analysis projects  
+- Documented findings and supported cybersecurity awareness and education initiatives  
+
+---
+
+### **Service Desk Tier 1**  
+**Staples — Hagerstown, MD**  
+*March 2018 – April 2020*
+- Delivered Tier 1 technical support in a fast-paced customer service environment  
+- Troubleshot hardware, software, and peripheral issues for end users  
+- Escalated unresolved issues according to established service-level expectations  
+- Maintained strong customer satisfaction through clear communication and timely resolution  
+
+---
+
+### **Cybersecurity Lab Mentor (Teaching Assistant)**  
+**University Program**  
+*August 2023 – December 2023*
+- Assisted students with labs covering digital forensics, intrusion detection, and secure system concepts  
+- Supported hands-on learning using tools such as Kali Linux and Wireshark  
+- Helped reinforce cybersecurity fundamentals and lab documentation standards  
+
+---
+### **Operations & Digital Media Systems Specialist**  
+**Harvest Intercontinental Church — Hagerstown, MD**  
+*January 2018 – Present*
+
+- Administer and support audiovisual, livestreaming, and network-connected systems to ensure reliable operations  
+- Troubleshoot hardware, software, and connectivity issues to maintain system uptime during live environments  
+- Manage system access controls and ensure secure handling of digital content and equipment  
+- Maintain technical documentation for system configurations, workflows, and troubleshooting procedures  
+- Support organizational operations through dependable technical support and systems coordination  
 ## 🤝 Volunteer & Activities
-- Volunteer: GenCyber Assistant, Cybersecurity Peer Mentor
-- President: Creative Juices Art Club (2023–2024)
-- Conferences: Capitol Technology HammerCon
-- Hackathons: Capitol Tech CTF (2023)
+- Cybersecurity Peer Mentor  
+- GenCyber Program Assistant  
+- Attendee, Capitol Technology HammerCon  
 
 ---
 
-## ✅ Work Authorization
-- U.S. Citizen
-- Open to Relocation
-- Open to Remote, Onsite, and Hybrid Work
+## ✅ Work Authorization & Availability
+- U.S. Citizen  
+- Open to Remote, Hybrid, and Onsite Roles  
+- Open to Relocation  
 
 ---
 
 ## 📄 Download Resume
-[Download PDF](assets/files/resume.pdf)
+[Download PDF](assets/files/Faith_Olajide_Cybersecurity_Resume.pdf)
