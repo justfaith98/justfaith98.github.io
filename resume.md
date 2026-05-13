@@ -4,8 +4,7 @@ title: "Resume"
 ---
 
 # Faith Olajide
-📧 faitholajide1@gmail.com | 📞 (240) 469-0970  
-🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/) | 🌐 [Portfolio](https://justfaith98.github.io)
+📧 faitholajide1@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/) | 🌐 [Portfolio](https://justfaith98.github.io)
 
 ---
 
