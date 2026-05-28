@@ -122,7 +122,7 @@ title: "Resume"
 - Optimized workflows and system usage, enhancing overall reliability of technical operations
 ---
 # 📄 Resume Download
-[Download Resume PDF](assets/files/Resume-2.pdf)- Applied social engineering and malware analysis concepts to evaluate phishing behaviors and strengthen phishing mitigation strategies
+[Download Resume PDF](assets/files/Resume-3.pdf)- Applied social engineering and malware analysis concepts to evaluate phishing behaviors and strengthen phishing mitigation strategies
 - Documented security findings and developed recommendations to improve cybersecurity awareness and user education
 
 ---
