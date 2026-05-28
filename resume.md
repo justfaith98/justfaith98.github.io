@@ -1,103 +1,222 @@
+Here’s your updated GitHub portfolio resume section formatted cleanly in Markdown for your Jekyll portfolio:
+
 ---
 layout: default
 title: "Resume"
 ---
-
-# Faith Olajide
-📧 faitholajide1@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/faith-olajide-58075514b/) | 🌐 [Portfolio](https://justfaith98.github.io)
-
+# Faith O. Olajide
+📍 Hagerstown, MD 21742  
+📞 240-469-0970  
+📧 faitholajide1@gmail.com  
 ---
-
-## 🔹 Summary
-Cybersecurity graduate with hands-on experience in IT support, security monitoring, and incident response through academic, lab, and enterprise environments. Skilled in Windows and Linux systems, Active Directory, log analysis, vulnerability assessment, and secure system configuration. Strong communicator with a customer-focused mindset and a passion for protecting systems, users, and data.
-
+# 🛠 Skills & Certifications
+## Technical Skills
+- Windows OS
+- Linux
+- Active Directory
+- TCP/IP Networking
+- User Account Administration
+- Vulnerability Scanning
+- Log Analysis
+- Incident Response Support
+- Network Troubleshooting
+## Security & Networking Tools
+- Wireshark
+- Kali Linux
+- Packet Tracer
+- Virtual Machines
+- Qualys Cloud Agent
+- Qualys Cybersecurity Asset Management (CSAM)
+## Programming
+- Python
+- SQL
+## Certifications
+- SOCOA 1
+- Qualys CA
+- Qualys CSAM
+- Google Cybersecurity Professional Certificate
 ---
-
-## 🎓 Education
-**Capitol Technology University, Laurel, MD**  
-**Bachelor of Applied Science (B.A.S.) in Cybersecurity** — *April 2024*
-
-**Certifications**
-- Google Cybersecurity Certificate  
-- Google IT Support Certificate  
-- Qualys Cloud Agent (CA)  
-- Qualys Cybersecurity Asset Management (CSAM)  
-- SOCOA I (In Progress)
-
+# 🔬 Projects
+## BCR Cyber Range – Defensive Security Project
+- Analyzed simulated network traffic and security events in a live cyber range environment to identify suspicious activity and potential threats
+- Investigated cybersecurity incidents using Wireshark, Kali Linux, and SIEM platforms to support threat detection and incident response workflows
+- Developed detection logic and documented findings from defensive security exercises involving network traffic analysis and threat investigation
+- Performed hands-on incident analysis activities aligned with SOC operations and security monitoring practices
 ---
-
-## 🛠 Technical Skills
-- **Security & Analysis:** Log Analysis, Vulnerability Scanning, Incident Triage, Risk Identification  
-- **Tools & Labs:** Wireshark, Kali Linux, Nmap, Metasploit, Burp Suite, Virtual Machines  
-- **Systems & Networking:** Windows OS, Linux, Active Directory, MFA, TCP/IP, DNS  
-- **Programming & Databases:** Python (basic), SQL  
-- **Frameworks & Concepts:** NIST, CIA Triad, Security Awareness Fundamentals  
-
+## Network Security Internship – The Cyber Ledger
+- Completed an 8-week defensive security internship focused on network monitoring, intrusion detection, and cybersecurity analysis
+- Analyzed network traffic and investigated simulated threats in hands-on security lab environments
+- Strengthened practical knowledge of SOC operations, threat detection, and incident response workflows
+- Collaborated with mentors and peers to investigate cybersecurity scenarios and communicate technical findings
 ---
-
-## 💼 Technical Experience
-
-### **IT Help Desk Technician**  
-**Capitol Technology University — Laurel, MD**  
+## Senior Design Project – Phishing Mitigation Using Virtual Machines
+- Designed and deployed a virtual machine-based phishing simulation environment to demonstrate workplace phishing attacks and cybersecurity awareness concepts
+- Utilized Kali Linux and the Social Engineering Toolkit (SET) to simulate phishing campaigns and analyze attacker techniques
+- Applied social engineering and malware analysis concepts to evaluate phishing behaviors and strengthen phishing mitigation strategies
+- Documented security findings and developed recommendations to improve cybersecurity awareness and user education
+---
+## Network Traffic & Log Analysis Labs
+- Analyzed network traffic and system logs using Wireshark to identify anomalies, suspicious behavior, and potential threats in virtual lab environments
+- Conducted vulnerability assessments and intrusion detection exercises using cybersecurity tools and simulated attack scenarios
+- Performed incident response simulations focused on threat investigation, log analysis, and remediation tracking
+- Documented technical findings and remediation recommendations to support cybersecurity best practices
+---
+## Active Directory & IT Support Administration
+- Supported Active Directory administration for 800+ users through account provisioning, password resets, and access management tasks
+- Resolved 20–30+ technical support tickets daily involving Windows systems, applications, printers, and connectivity issues
+- Troubleshot endpoint, login, and network-related issues using root cause analysis and documentation procedures
+- Maintained technical documentation and knowledge base records to improve support efficiency and issue resolution times
+---
+# 🎓 Education
+## Capitol Technology University – Laurel, MD
+**Bachelor of Science in Cybersecurity**  
+*January 2020 – April 2024*
+### Relevant Coursework
+#### Cybersecurity
+- Network Security
+- Penetration Testing
+- Malware Analysis & Reverse Engineering
+- Digital Forensics & Investigation Process
+#### Networking & Systems
+- Internetworking with Routers & Switches
+- Secure System Administration & Operations (UNIX)
+- Operating Systems
+#### Programming & Data
+- Programming in C/C++
+- Secure Coding
+- Database Management
+---
+# 💼 Experience
+## Capitol Technology University – Laurel, MD
+### IT Help Desk Technician
 *May 2022 – August 2024*
-- Provided Tier 1 technical support to students, faculty, and staff in a university environment  
-- Diagnosed and resolved Windows OS, application, and login-related issues  
-- Assisted with Active Directory account management, password resets, and access troubleshooting  
-- Documented incidents and resolutions to support efficient issue tracking and escalation  
-- Supported secure workstation configurations and basic endpoint security practices  
-
+- Resolved 20–30+ technical support tickets daily in a fast-paced environment, supporting Windows systems, applications, and network issues
+- Administered Active Directory for 800+ users, including account provisioning, password resets, and access control
+- Troubleshot login, system, and connectivity issues, reducing repeat incidents through root cause analysis and documentation
+- Monitored system activity for potential security concerns and escalated suspicious behavior following security best practices
+- Documented 100+ incidents and resolutions, improving knowledge base efficiency and response times
 ---
-
-### **Cybersecurity Technician**  
-**Capitol Technology University — Laurel, MD**  
+## Capitol Technology University – Laurel, MD
+### Cybersecurity Technician
 *April 2020 – May 2022*
-- Participated in hands-on cybersecurity labs focused on intrusion detection, log analysis, and threat identification  
-- Utilized Kali Linux, Wireshark, and virtualized environments to simulate real-world cyber threats  
-- Assisted with vulnerability assessment exercises and security analysis projects  
-- Documented findings and supported cybersecurity awareness and education initiatives  
-
+- Performed hands-on security analysis in virtual lab environments, including intrusion detection, vulnerability assessment, and threat identification
+- Analyzed network traffic and system logs using Wireshark to identify anomalies and suspicious activity
+- Conducted vulnerability scans using Qualys tools and supported remediation tracking
+- Simulated incident response scenarios to strengthen threat detection and response capabilities
+- Documented findings and supported cybersecurity awareness and risk mitigation efforts
 ---
-
-### **Service Desk Tier 1**  
-**Staples — Hagerstown, MD**  
+## Staples – Hagerstown, MD
+### Service Desk Technician (Tier 1)
 *March 2018 – April 2020*
-- Delivered Tier 1 technical support in a fast-paced customer service environment  
-- Troubleshot hardware, software, and peripheral issues for end users  
-- Escalated unresolved issues according to established service-level expectations  
-- Maintained strong customer satisfaction through clear communication and timely resolution  
+- Delivered Tier 1 technical support to 50+ customers per week, resolving hardware, software, and connectivity issues
+- Troubleshot POS systems, Windows/macOS devices, and peripherals, achieving high first-call resolution rates
+- Escalated complex issues following SLA guidelines, ensuring timely resolution and customer satisfaction
+- Maintained consistent communication with users, improving overall service experience and issue resolution transparency
+---
+## Harvest Intercontinental Church – Hagerstown, MD
+### Operations & Digital Media Systems Specialist
+*January 2018 – Present*
+- Supported and maintained AV, livestream, and network systems for weekly services and events with 100+ attendees
+- Troubleshot hardware, software, and network issues in real time, ensuring minimal system downtime
+- Managed digital records and technical documentation, improving system organization and operational efficiency
+- Optimized workflows and system usage, enhancing overall reliability of technical operations
+---
+# 📄 Resume Download
+[Download Resume PDF](assets/files/Resume-2.pdf)- Applied social engineering and malware analysis concepts to evaluate phishing behaviors and strengthen phishing mitigation strategies
+- Documented security findings and developed recommendations to improve cybersecurity awareness and user education
 
 ---
 
-### **Cybersecurity Lab Mentor (Teaching Assistant)**  
-**University Program**  
-*August 2023 – December 2023*
-- Assisted students with labs covering digital forensics, intrusion detection, and secure system concepts  
-- Supported hands-on learning using tools such as Kali Linux and Wireshark  
-- Helped reinforce cybersecurity fundamentals and lab documentation standards  
+## Network Traffic & Log Analysis Labs
+- Analyzed network traffic and system logs using Wireshark to identify anomalies, suspicious behavior, and potential threats in virtual lab environments
+- Conducted vulnerability assessments and intrusion detection exercises using cybersecurity tools and simulated attack scenarios
+- Performed incident response simulations focused on threat investigation, log analysis, and remediation tracking
+- Documented technical findings and remediation recommendations to support cybersecurity best practices
 
 ---
-### **Operations & Digital Media Systems Specialist**  
-**Harvest Intercontinental Church — Hagerstown, MD**  
+
+## Active Directory & IT Support Administration
+- Supported Active Directory administration for 800+ users through account provisioning, password resets, and access management tasks
+- Resolved 20–30+ technical support tickets daily involving Windows systems, applications, printers, and connectivity issues
+- Troubleshot endpoint, login, and network-related issues using root cause analysis and documentation procedures
+- Maintained technical documentation and knowledge base records to improve support efficiency and issue resolution times
+
+---
+
+# 🎓 Education
+
+## Capitol Technology University – Laurel, MD
+**Bachelor of Science in Cybersecurity**  
+*January 2020 – April 2024*
+
+### Relevant Coursework
+
+#### Cybersecurity
+- Network Security
+- Penetration Testing
+- Malware Analysis & Reverse Engineering
+- Digital Forensics & Investigation Process
+
+#### Networking & Systems
+- Internetworking with Routers & Switches
+- Secure System Administration & Operations (UNIX)
+- Operating Systems
+
+#### Programming & Data
+- Programming in C/C++
+- Secure Coding
+- Database Management
+
+---
+
+# 💼 Experience
+
+## Capitol Technology University – Laurel, MD
+### IT Help Desk Technician
+*May 2022 – August 2024*
+
+- Resolved 20–30+ technical support tickets daily in a fast-paced environment, supporting Windows systems, applications, and network issues
+- Administered Active Directory for 800+ users, including account provisioning, password resets, and access control
+- Troubleshot login, system, and connectivity issues, reducing repeat incidents through root cause analysis and documentation
+- Monitored system activity for potential security concerns and escalated suspicious behavior following security best practices
+- Documented 100+ incidents and resolutions, improving knowledge base efficiency and response times
+
+---
+
+## Capitol Technology University – Laurel, MD
+### Cybersecurity Technician
+*April 2020 – May 2022*
+
+- Performed hands-on security analysis in virtual lab environments, including intrusion detection, vulnerability assessment, and threat identification
+- Analyzed network traffic and system logs using Wireshark to identify anomalies and suspicious activity
+- Conducted vulnerability scans using Qualys tools and supported remediation tracking
+- Simulated incident response scenarios to strengthen threat detection and response capabilities
+- Documented findings and supported cybersecurity awareness and risk mitigation efforts
+
+---
+
+## Staples – Hagerstown, MD
+### Service Desk Technician (Tier 1)
+*March 2018 – April 2020*
+
+- Delivered Tier 1 technical support to 50+ customers per week, resolving hardware, software, and connectivity issues
+- Troubleshot POS systems, Windows/macOS devices, and peripherals, achieving high first-call resolution rates
+- Escalated complex issues following SLA guidelines, ensuring timely resolution and customer satisfaction
+- Maintained consistent communication with users, improving overall service experience and issue resolution transparency
+
+---
+
+## Harvest Intercontinental Church – Hagerstown, MD
+### Operations & Digital Media Systems Specialist
 *January 2018 – Present*
 
-- Administer and support audiovisual, livestreaming, and network-connected systems to ensure reliable operations  
-- Troubleshoot hardware, software, and connectivity issues to maintain system uptime during live environments  
-- Manage system access controls and ensure secure handling of digital content and equipment  
-- Maintain technical documentation for system configurations, workflows, and troubleshooting procedures  
-- Support organizational operations through dependable technical support and systems coordination  
-## 🤝 Volunteer & Activities
-- Cybersecurity Peer Mentor  
-- GenCyber Program Assistant  
-- Attendee, Capitol Technology HammerCon  
+- Supported and maintained AV, livestream, and network systems for weekly services and events with 100+ attendees
+- Troubleshot hardware, software, and network issues in real time, ensuring minimal system downtime
+- Managed digital records and technical documentation, improving system organization and operational efficiency
+- Optimized workflows and system usage, enhancing overall reliability of technical operations
 
 ---
 
-## ✅ Work Authorization & Availability
-- U.S. Citizen  
-- Open to Remote, Hybrid, and Onsite Roles  
-- Open to Relocation  
+# 📄 Resume Download
 
----
-
-## 📄 Download Resume
-[Download PDF](assets/files/Resume-2.pdf)
+[Download Resume PDF](assets/files/Resume-2.pdf)
