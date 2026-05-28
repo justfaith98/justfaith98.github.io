@@ -1,5 +1,3 @@
-Here’s your updated GitHub portfolio resume section formatted cleanly in Markdown for your Jekyll portfolio:
-
 ---
 layout: default
 title: "Resume"
