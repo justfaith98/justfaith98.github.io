@@ -5,13 +5,12 @@ title: "Resume"
 
 # Faith O. Olajide
 
-📍 Hagerstown, MD 21742  
-📞 240-469-0970  
-📧 faitholajide1@gmail.com
+Hagerstown, MD 21742   
+faitholajide1@gmail.com
 
 ---
 
-# 🛠 Skills & Certifications
+# Skills & Certifications
 
 ## Technical Skills
 
@@ -48,7 +47,7 @@ title: "Resume"
 
 ---
 
-# 🔬 Projects
+# Projects
 
 ## BCR Cyber Range – Defensive Security Project
 
@@ -95,7 +94,7 @@ title: "Resume"
 
 ---
 
-# 🎓 Education
+# Education
 
 ## Capitol Technology University – Laurel, MD
 
@@ -125,7 +124,7 @@ title: "Resume"
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## Capitol Technology University – Laurel, MD
 
