@@ -10,6 +10,12 @@
 
 To use the Hacker theme:
 
+## Professional Background
+
+For details on my 8-week network security internship at The Cyber Ledger, experience, and technical skills developed, see [EXPERIENCE.md](EXPERIENCE.md).
+
+---
+
 1. Add the following to your site's `_config.yml`:
 
     ```yml
