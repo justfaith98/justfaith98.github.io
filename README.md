@@ -14,6 +14,22 @@ To use the Hacker theme:
 
 For details on my 8-week network security internship at The Cyber Ledger, experience, and technical skills developed, see [EXPERIENCE.md](EXPERIENCE.md).
 
+## Quick Navigation
+
+**New to this project?** Start here:
+- **[SKILLS.md](SKILLS.md)** — Technical skills & competencies demonstrated
+- **[SETUP.md](SETUP.md)** — How to replicate this lab in your own environment
+- **[CONTACT.md](CONTACT.md)** — Hiring info, contact details, interview prep
+- **[EXPERIENCE.md](EXPERIENCE.md)** — 8-week internship at The Cyber Ledger
+
+**Deep-dive technical review?** Read these:
+- [ARCHITECTURE.md](ARCHITECTURE.md) — Network design & defense-in-depth
+- [ATTACKS.md](ATTACKS.md) — Three attacks with evidence
+- [DETECTION.md](DETECTION.md) — Suricata rule engineering
+- [rules/local.rules](rules/local.rules) — Custom IDS signatures
+
+---
+
 ---
 
 1. Add the following to your site's `_config.yml`:
