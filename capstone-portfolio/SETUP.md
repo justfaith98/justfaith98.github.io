@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Resume"
+---
+
 # Lab Replication Guide
 
 ## Overview
