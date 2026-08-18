@@ -152,30 +152,6 @@ This repository contains:
 
 ---
 
-## Next Steps
-
-### If You're Interested
-
-1. **Review this portfolio**
-   - Start with [README.md](README.md) for overview
-   - Explore [SKILLS.md](SKILLS.md) for detailed competencies
-   - Read [ATTACKS.md](ATTACKS.md) and [DETECTION.md](DETECTION.md) for technical depth
-
-2. **Check me out on LinkedIn**
-   - [LinkedIn Profile] - Latest experience, endorsements, recommendations
-
-3. **Reach out**
-   - Email: [your-email@example.com]
-   - Phone: [Your number]
-   - LinkedIn: [Add URL]
-
-4. **Interview Process**
-   - Technical discussion about this capstone
-   - Live demonstration of attack-defend cycle (optional)
-   - Questions about detection engineering, incident response, etc.
-
----
-
 ## Recommended Reading Order
 
 For recruiters/hiring managers:
