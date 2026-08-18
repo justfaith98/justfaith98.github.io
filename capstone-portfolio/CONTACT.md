@@ -40,13 +40,12 @@ I'm a recent cybersecurity graduate with hands-on experience in penetration test
 ## Connect With Me
 
 ### Professional Networks
-- **LinkedIn**: [Add your LinkedIn URL]
-- **GitHub**: [github.com/your-username](https://github.com/)
+- **LinkedIn**: https://www.linkedin.com/in/faith-olajide-58075514b/
+- **GitHub**: GitHub.com/justfaith98
 - **GitHub (This Project)**: [capstone-portfolio](https://github.com/)
 
 ### Direct Contact
-- **Email**: [your-email@example.com]
-- **Phone**: [Your phone number]
+- **Email**: faitholajide1@gmail.com
 - **Location**: Hagerstown, Maryland (Open to remote/hybrid/relocation)
 
 ---
