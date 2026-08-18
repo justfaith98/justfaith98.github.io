@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Resume"
+---
+
 # Contact & Hiring
 
 ## About Me
