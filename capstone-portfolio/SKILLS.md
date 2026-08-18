@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Resume"
+---
+
 # Technical Skills Demonstrated
 
 This capstone project demonstrates hands-on competency across the complete security engineering lifecycle.
